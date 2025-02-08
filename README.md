@@ -17,9 +17,8 @@ Animation (Slide Down)
 The button slides into view with the following animation:
 
 css
-Copy
-Edit
-@keyframes slideDown {
+ 
+  `slideDown {
     0% {
         top: 0;
         opacity: 0;
@@ -29,4 +28,4 @@ Edit
         transform: translateY(-50%);
         opacity: 1;
     }
-}
+}`
