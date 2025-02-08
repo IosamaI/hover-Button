@@ -1,6 +1,6 @@
-#Hover Button Project
+# Hover Button Project
 
-##Features
+## Features
 
 Responsive and minimalist hover button design.
 
